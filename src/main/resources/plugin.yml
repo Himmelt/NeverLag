@@ -1,8 +1,9 @@
 name: NeverLag
-main: cn.jiongjionger.neverlag.NeverLag
-version: ${version}
+main: jiongjionger.NeverLag
+version: 1.3.0
 author: jiongjionger
-softdepend: [ProtocolLib]
 commands:
-    neverlag:
-        usage: /neverlag <something>
+    NeverLag:
+        description: NeverLag
+        usage: /NeverLag <something>
+depend: [ProtocolLib]
