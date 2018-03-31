@@ -1,7 +1,7 @@
 apply plugin: 'java'
 
-group 'cn.jiongjionger.neverlag'
-version '1.7.10-1.3.1'
+group = 'cn.jiongjionger.neverlag'
+version = '1.7.10-1.3.1'
 description = 'NeverLag Plugin'
 archivesBaseName = "NeverLag"
 
